@@ -1,47 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-22T15:40:40 IST" name="Suite" finished-at="2024-12-22T15:40:44 IST" duration-ms="3757">
+  <suite started-at="2024-12-22T16:03:19 IST" name="Suite" finished-at="2024-12-22T16:03:31 IST" duration-ms="11731">
     <groups>
     </groups>
-    <test started-at="2024-12-22T15:40:40 IST" name="Test" finished-at="2024-12-22T15:40:44 IST" duration-ms="3757">
+    <test started-at="2024-12-22T16:03:19 IST" name="Test" finished-at="2024-12-22T16:03:31 IST" duration-ms="11731">
       <class name="com.ui.tests.LoginTests">
-        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:35 IST" name="initializeDriver" finished-at="2024-12-22T15:40:40 IST" duration-ms="4711" status="PASS">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:07 IST" name="initializeDriver" finished-at="2024-12-22T16:03:19 IST" duration-ms="11867" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method is-config="true" signature="initializeDriverToPages()[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:40 IST" name="initializeDriverToPages" finished-at="2024-12-22T15:40:40 IST" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="initializeDriverToPages()[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:19 IST" name="initializeDriverToPages" finished-at="2024-12-22T16:03:19 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriverToPages -->
-        <test-method is-config="true" signature="createExtentReportForEachTestMethod(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:40 IST" name="createExtentReportForEachTestMethod" finished-at="2024-12-22T15:40:40 IST" duration-ms="16" status="PASS">
+        <test-method is-config="true" signature="createExtentReportForEachTestMethod(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:19 IST" name="createExtentReportForEachTestMethod" finished-at="2024-12-22T16:03:19 IST" duration-ms="12" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.verifyLoginWithInvalidData()[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createExtentReportForEachTestMethod -->
-        <test-method signature="verifyLoginWithInvalidData()[pri:1, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:40 IST" name="verifyLoginWithInvalidData" finished-at="2024-12-22T15:40:41 IST" duration-ms="699" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLoginWithInvalidData -->
-        <test-method is-config="true" signature="testMethodExecutionResult(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:41 IST" name="testMethodExecutionResult" finished-at="2024-12-22T15:40:41 IST" duration-ms="16" status="PASS">
+        <test-method signature="verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:19 IST" name="verifyLoginWithInvalidData" data-provider="loginData" finished-at="2024-12-22T16:03:23 IST" duration-ms="4174" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyLoginWithInvalidData status=SUCCESS method=LoginTests.verifyLoginWithInvalidData()[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidData -->
+        <test-method is-config="true" signature="testMethodExecutionResult(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:23 IST" name="testMethodExecutionResult" finished-at="2024-12-22T16:03:23 IST" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginWithInvalidData status=SUCCESS method=LoginTests.verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethodExecutionResult -->
-        <test-method is-config="true" signature="createExtentReportForEachTestMethod(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:41 IST" name="createExtentReportForEachTestMethod" finished-at="2024-12-22T15:40:41 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="createExtentReportForEachTestMethod(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:23 IST" name="createExtentReportForEachTestMethod" finished-at="2024-12-22T16:03:23 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createExtentReportForEachTestMethod -->
+        <test-method signature="verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:23 IST" name="verifyLoginWithInvalidData" data-provider="loginData" finished-at="2024-12-22T16:03:24 IST" duration-ms="842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidData -->
+        <test-method is-config="true" signature="testMethodExecutionResult(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:24 IST" name="testMethodExecutionResult" finished-at="2024-12-22T16:03:24 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginWithInvalidData status=SUCCESS method=LoginTests.verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodExecutionResult -->
+        <test-method is-config="true" signature="createExtentReportForEachTestMethod(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:24 IST" name="createExtentReportForEachTestMethod" finished-at="2024-12-22T16:03:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createExtentReportForEachTestMethod -->
+        <test-method signature="verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:24 IST" name="verifyLoginWithInvalidData" data-provider="loginData" finished-at="2024-12-22T16:03:30 IST" duration-ms="5788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidData -->
+        <test-method is-config="true" signature="testMethodExecutionResult(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:30 IST" name="testMethodExecutionResult" finished-at="2024-12-22T16:03:30 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginWithInvalidData status=SUCCESS method=LoginTests.verifyLoginWithInvalidData(java.lang.String,java.lang.String)[pri:1, instance:com.ui.tests.LoginTests@1fa268de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodExecutionResult -->
+        <test-method is-config="true" signature="createExtentReportForEachTestMethod(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:30 IST" name="createExtentReportForEachTestMethod" finished-at="2024-12-22T16:03:30 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,11 +140,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createExtentReportForEachTestMethod -->
-        <test-method signature="verifyLoginWithValidData()[pri:2, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:41 IST" name="verifyLoginWithValidData" finished-at="2024-12-22T15:40:44 IST" duration-ms="2904" status="PASS">
+        <test-method signature="verifyLoginWithValidData()[pri:2, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:30 IST" name="verifyLoginWithValidData" finished-at="2024-12-22T16:03:31 IST" duration-ms="760" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithValidData -->
-        <test-method is-config="true" signature="testMethodExecutionResult(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:44 IST" name="testMethodExecutionResult" finished-at="2024-12-22T15:40:44 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="testMethodExecutionResult(org.testng.ITestResult)[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:31 IST" name="testMethodExecutionResult" finished-at="2024-12-22T16:03:31 IST" duration-ms="4" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -67,7 +155,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethodExecutionResult -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T15:40:44 IST" name="tearDown" finished-at="2024-12-22T15:40:45 IST" duration-ms="859" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ui.tests.LoginTests@1fa268de]" started-at="2024-12-22T16:03:31 IST" name="tearDown" finished-at="2024-12-22T16:03:32 IST" duration-ms="1565" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
