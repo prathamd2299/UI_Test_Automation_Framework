@@ -30,14 +30,27 @@ public class BrowserUtil {
 		element.click();
 	}
 
+	public void clickOn(WebElement element) {
+		element.click();
+	}
+
 	public void enterText(By locator, String text) {
 		WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
 		element.clear();
 		element.sendKeys(text);
 	}
 
+	public void enterText(WebElement element, String text) {
+		element.clear();
+		element.sendKeys(text);
+	}
+
 	public String getText(By locator) {
 		WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+		return element.getText();
+	}
+
+	public String getText(WebElement element) {
 		return element.getText();
 	}
 }
