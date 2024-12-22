@@ -12,7 +12,7 @@ import com.ui.testData.LoginData;
 @Listeners(TestListener.class)
 public class LoginTests extends BaseTest {
 	@Test(priority = 1, dataProvider = "loginData", dataProviderClass = LoginData.class)
-	public void verifyLoginWithInvalidData(String username, String password) {
+	public void verifyLoginWithMoreData(String username, String password) {
 		login.enterUsername(username);
 		login.enterPassword(password);
 		login.clickOnLoginButton();
