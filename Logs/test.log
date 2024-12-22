@@ -1,0 +1,163 @@
+15:40:36 [main] INFO  com.ui.utilities.LoggerUtility Test execution started on 2024-12-22
+
+15:40:39 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+15:40:40 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+15:40:40 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+15:40:40 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+15:40:40 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:40:41 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:40:41 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+
+15:40:44 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+
+
+15:40:44 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+15:40:56 [main] INFO  com.ui.utilities.LoggerUtility Test execution started on 2024-12-22
+
+15:41:00 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+15:41:00 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+15:41:01 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+15:41:01 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+15:41:01 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:41:02 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:41:02 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+
+15:41:05 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+
+
+15:41:05 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+15:42:10 [main] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-22
+ --------------------
+
+15:42:14 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+15:42:14 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+15:42:15 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+15:42:15 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+15:42:15 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:42:16 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:42:16 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+
+15:42:17 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+
+
+15:42:18 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+15:42:56 [main] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-22 -------------------- 
+
+
+15:42:59 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+15:43:00 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+15:43:01 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+15:43:01 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+15:43:01 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:43:02 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:43:02 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+
+15:43:16 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+
+
+15:43:16 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+15:50:58 [main] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-22 --------------------
+
+15:51:04 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+15:51:05 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+15:51:05 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+15:51:06 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+15:51:06 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:51:09 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:51:09 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:51:10 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:51:10 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:51:40 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+
+
+15:51:40 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:52:11 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+
+
+15:52:11 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:52:41 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+
+
+15:52:41 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:53:01 [main] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-22 --------------------
+
+15:53:05 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+15:53:06 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+15:53:06 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+15:53:07 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+15:53:07 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:53:09 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:53:09 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:53:10 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:53:10 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+15:53:16 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+15:53:16 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+
+15:53:17 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+
+
+15:53:17 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
