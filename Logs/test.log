@@ -1,163 +1,711 @@
-15:40:36 [main] INFO  com.ui.utilities.LoggerUtility Test execution started on 2024-12-22
+22:33:41 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
 
-15:40:39 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+22:33:41 [main] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
 
-15:40:40 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+22:33:46 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:40:40 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+22:33:47 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
 
-15:40:40 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+22:33:47 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
 
-15:40:40 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:33:48 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:40:41 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:33:48 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
 
 
-15:40:41 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+22:33:48 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:40:44 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+22:33:49 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
 
 
-15:40:44 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+22:33:49 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:40:56 [main] INFO  com.ui.utilities.LoggerUtility Test execution started on 2024-12-22
+22:33:50 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
 
-15:41:00 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:41:00 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+22:33:50 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:41:01 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+22:33:50 [main] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithInvalidData
 
-15:41:01 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
 
-15:41:01 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:33:50 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:41:02 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:33:57 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
 
 
-15:41:02 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+22:33:57 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:41:05 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+22:33:58 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
 
 
-15:41:05 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+22:33:58 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:42:10 [main] INFO  com.ui.utilities.LoggerUtility 
- -------------------- Test execution started on 2024-12-22
- --------------------
+22:34:03 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
 
-15:42:14 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:42:14 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+22:34:05 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
 
-15:42:15 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+22:34:56 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
 
-15:42:15 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+22:34:56 [main] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
 
-15:42:15 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:34:59 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:42:16 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:35:01 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
 
+22:35:01 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
 
-15:42:16 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+22:35:01 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:42:17 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+22:35:01 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
+22:35:03 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
 
-15:42:18 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
 
-15:42:56 [main] INFO  com.ui.utilities.LoggerUtility 
- -------------------- Test execution started on 2024-12-22 -------------------- 
+22:35:51 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
 
+22:35:51 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
 
-15:42:59 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+22:35:51 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
 
-15:43:00 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+22:35:56 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:43:01 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+22:35:56 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:43:01 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+22:35:57 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
 
-15:43:01 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:57 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
 
-15:43:02 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:35:57 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
 
+22:35:57 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:43:02 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+22:35:57 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
 
-15:43:16 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+22:35:57 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
-15:43:16 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
 
-15:50:58 [main] INFO  com.ui.utilities.LoggerUtility 
- -------------------- Test execution started on 2024-12-22 --------------------
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
 
-15:51:04 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
 
-15:51:05 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:51:05 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:51:06 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
 
-15:51:06 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:51:09 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
 
-15:51:09 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:51:10 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
 
-15:51:10 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:51:40 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
 
-15:51:40 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
 
-15:52:11 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
+22:35:58 [TestNG-test-Test-2] ERROR com.ui.utilities.LoggerUtility Failed to take screenshot
 
-15:52:11 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-1] ERROR com.ui.utilities.LoggerUtility Failed to take screenshot
 
-15:52:41 [main] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithMoreData
 
 
-15:52:41 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithInvalidData
 
-15:53:01 [main] INFO  com.ui.utilities.LoggerUtility 
- -------------------- Test execution started on 2024-12-22 --------------------
 
-15:53:05 [main] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:53:06 [main] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
-15:53:06 [main] INFO  com.ui.utilities.LoggerUtility Browser window maximized
 
-15:53:07 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:53:07 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
-15:53:09 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
 
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:53:09 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
-15:53:10 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
 
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:53:10 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] ERROR com.ui.utilities.LoggerUtility Failed to take screenshot
 
-15:53:16 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithMoreData
 
 
-15:53:16 [main] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithValidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
 
-15:53:17 [main] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithValidData
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
 
 
-15:53:17 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:35:58 [TestNG-test-Test-2] ERROR com.ui.utilities.LoggerUtility Failed to take screenshot
+
+22:35:58 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithMoreData
+
+
+22:36:01 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+22:42:06 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+22:42:07 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:07 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:13 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:13 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:15 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:15 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:15 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:15 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:42:15 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:15 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:16 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+
+
+22:42:16 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:16 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:16 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:19 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:19 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:23 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:23 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:23 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:23 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:42:23 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:23 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+
+
+22:42:23 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:23 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:24 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:24 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:26 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:26 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:28 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:28 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:28 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:29 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:29 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:42:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:29 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithInvalidData
+
+
+22:42:29 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:31 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:31 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:35 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:35 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:35 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:35 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:35 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:35 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:42:35 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithMoreData
+
+
+22:42:35 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithInvalidData
+
+
+22:42:35 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:37 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:38 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:38 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:38 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:38 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:38 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:39 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:40 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:40 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:40 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:40 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:40 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:42 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:42 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:42 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:42 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:43 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:43 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:44 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:45 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:45 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:45 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:45 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithMoreData
+
+
+22:42:45 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:47 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:48 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:48 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:48 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:48 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:48 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:49 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:50 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:50 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:50 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:50 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:50 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:51 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:52 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:52 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:52 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:53 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:42:53 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:42:54 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:42:55 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:42:55 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:42:55 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:42:55 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test failed: verifyLoginWithMoreData
+
+
+22:42:57 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+22:44:39 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+22:44:39 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:44:39 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:44:47 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:44:47 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:44:48 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:44:48 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:44:49 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:44:49 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:44:49 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:44:49 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:44:50 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:47:52 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test1
+
+22:47:52 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+22:47:52 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:47:52 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:47:57 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:48:00 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:48:00 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:48:00 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:48:01 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:48:01 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:48:04 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:48:04 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:48:06 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:48:06 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:48:06 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:48:07 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:48:07 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:48:07 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:48:08 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:48:08 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:48:11 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:48:11 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:48:12 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:48:12 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:48:12 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:48:15 [TestNG-tests-1] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+22:48:18 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:48:20 [TestNG-tests-2] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test1
+
+22:50:05 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+22:50:06 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:06 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:12 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:50:12 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:50:13 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:13 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:13 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:13 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:50:13 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:13 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:50:14 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:50:15 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:50:15 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:17 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:50:19 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:19 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:19 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:50:23 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:50:23 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:25 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:50:26 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:26 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:26 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:50:27 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:50:27 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:50:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:29 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:50:41 [TestNG-test-Test-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:50:42 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+22:50:42 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test1
+
+22:50:42 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:42 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:50:45 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:50:46 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:50:48 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:51 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:50:51 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:51 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:50:51 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:50:51 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:50:52 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:51:22 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test skipped: verifyLoginWithMoreData
+
+
+22:51:23 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:51:26 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:51:28 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:51:28 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:51:28 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:51:35 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:51:37 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:51:39 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:51:39 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:51:39 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:51:39 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:51:41 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:51:42 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:51:44 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:51:45 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:51:45 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:51:45 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:51:53 [TestNG-test-Test1-2] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:51:55 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test1
+
+22:52:55 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test
+
+22:52:55 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:52:59 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility chrome launched successfully
+
+22:53:00 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:53:00 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:53:00 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:53:01 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:53:01 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:53:11 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:53:11 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:53:13 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:53:13 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:53:19 [TestNG-test-Test-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:53:20 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test
+
+22:53:20 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Started: Test1
+
+22:53:20 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility 
+ -------------------- Test execution started on 2024-12-30 --------------------
+
+22:53:24 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility edge launched successfully
+
+22:53:28 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility https://www.saucedemo.com/v1/ opened successfully
+
+22:53:28 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Browser window maximized
+
+22:53:28 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithInvalidData
+
+22:53:28 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithInvalidData
+
+
+22:53:28 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:53:38 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:53:38 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:53:39 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:53:39 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test Started: verifyLoginWithMoreData
+
+22:53:45 [TestNG-test-Test1-1] INFO  com.ui.utilities.LoggerUtility Test passed: verifyLoginWithMoreData
+
+
+22:53:47 [main] INFO  com.ui.utilities.LoggerUtility Test Suite Finished: Test1
 

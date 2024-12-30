@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">SauseLab UI Automation Test Exection Results By Prathamesh Dhasade</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Dec 22, 2024 04:03:18 PM</span></a>
+<a href="#"><span class="badge badge-primary">Dec 30, 2024 10:53:20 PM</span></a>
 </li>
 </ul>
 </div>
@@ -45,6 +45,11 @@
 <li class="nav-item dropdown" onclick="toggleView('test-view')">
 <a id="nav-test" class="dropdown-toggle" href="#">
 <span class="ico"><i class="fa fa-list"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('category-view')">
+<a id="nav-category" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-tag"></i></span>
 </a>
 </li>
 <li class="nav-item dropdown" onclick="toggleView('dashboard-view')">
@@ -71,17 +76,23 @@
 <a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
 </ul>
 </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-tag"></i></a>
+<ul id="tag-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" href="#">smoke</a><a class="dropdown-item" href="#">regression</a><a class="dropdown-item" href="#">sanity</a>
+</ul>
+</li>
 </ul>
 </div>    <div class="test-list-wrapper scrollable">
       <ul class="test-list-item">
-        <li class="test-item"  status="pass" test-id="1"
+        <li class="test-item"  status="pass" test-id="5"
           author=""
-          tag=""
+          tag="regression sanity"
           device="">
           <div class="test-detail">
             <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</p>
             <p class="text-sm">
-              <span>4:03:19 PM</span> / <span>00:00:04:207</span>
+              <span>10:53:28 PM</span> / <span>00:00:00:000</span>
               <span class="badge pass-bg log float-right">Pass</span>
             </p>
           </div>
@@ -90,14 +101,16 @@
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</h5>
-<span class='badge badge-success'>12.22.2024 4:03:19 PM</span>
-<span class='badge badge-danger'>12.22.2024 4:03:23 PM</span>
-<span class='badge badge-default'>00:00:04:207</span>
-&middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
+<span class='badge badge-success'>12.30.2024 10:53:28 PM</span>
+<span class='badge badge-danger'>12.30.2024 10:53:28 PM</span>
+<span class='badge badge-default'>00:00:00:000</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=5</span>
 <span title='Skip to the next failed step' class='badge badge-danger pointer float-right ne ml-1'><i class="fa fa-fast-forward"></i></span>
 <span title='Collapse all nodes' class='badge badge-default pointer float-right ct ml-1'><i class="fa fa-compress"></i></span>
 <span title='Expand all nodes' class='badge badge-default pointer float-right et'><i class="fa fa-expand"></i></span>
 </div>
+<div class="m-t-15"><span class="badge badge-pill badge-default">regression</span>
+<span class="badge badge-pill badge-default">sanity</span></div>
 </div>
 </div><div class="detail-body mt-4">
 <table class="table table-sm">
@@ -105,7 +118,7 @@
   <tbody>
       <tr class="event-row">
         <td><span class="badge log pass-bg">Pass</span></td>
-        <td>4:03:23 PM</td>
+        <td>10:53:28 PM</td>
         <td>
           <span class='badge white-text green'>verifyLoginWithInvalidData - Test Case Passed</span>
         </td>
@@ -115,14 +128,14 @@
 </div>
           </div>
         </li>
-        <li class="test-item"  status="pass" test-id="2"
+        <li class="test-item"  status="pass" test-id="6"
           author=""
-          tag=""
+          tag="regression smoke"
           device="">
           <div class="test-detail">
-            <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</p>
+            <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</p>
             <p class="text-sm">
-              <span>4:03:23 PM</span> / <span>00:00:00:845</span>
+              <span>10:53:38 PM</span> / <span>00:00:00:001</span>
               <span class="badge pass-bg log float-right">Pass</span>
             </p>
           </div>
@@ -130,15 +143,17 @@
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</h5>
-<span class='badge badge-success'>12.22.2024 4:03:23 PM</span>
-<span class='badge badge-danger'>12.22.2024 4:03:24 PM</span>
-<span class='badge badge-default'>00:00:00:845</span>
-&middot; <span class='uri-anchor badge badge-default'>#test-id=2</span>
+<h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</h5>
+<span class='badge badge-success'>12.30.2024 10:53:38 PM</span>
+<span class='badge badge-danger'>12.30.2024 10:53:38 PM</span>
+<span class='badge badge-default'>00:00:00:001</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=6</span>
 <span title='Skip to the next failed step' class='badge badge-danger pointer float-right ne ml-1'><i class="fa fa-fast-forward"></i></span>
 <span title='Collapse all nodes' class='badge badge-default pointer float-right ct ml-1'><i class="fa fa-compress"></i></span>
 <span title='Expand all nodes' class='badge badge-default pointer float-right et'><i class="fa fa-expand"></i></span>
 </div>
+<div class="m-t-15"><span class="badge badge-pill badge-default">regression</span>
+<span class="badge badge-pill badge-default">smoke</span></div>
 </div>
 </div><div class="detail-body mt-4">
 <table class="table table-sm">
@@ -146,9 +161,9 @@
   <tbody>
       <tr class="event-row">
         <td><span class="badge log pass-bg">Pass</span></td>
-        <td>4:03:24 PM</td>
+        <td>10:53:38 PM</td>
         <td>
-          <span class='badge white-text green'>verifyLoginWithInvalidData - Test Case Passed</span>
+          <span class='badge white-text green'>verifyLoginWithMoreData - Test Case Passed</span>
         </td>
       </tr>
   </tbody>
@@ -156,14 +171,14 @@
 </div>
           </div>
         </li>
-        <li class="test-item"  status="pass" test-id="3"
+        <li class="test-item"  status="pass" test-id="7"
           author=""
-          tag=""
+          tag="regression smoke"
           device="">
           <div class="test-detail">
-            <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</p>
+            <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</p>
             <p class="text-sm">
-              <span>4:03:24 PM</span> / <span>00:00:05:793</span>
+              <span>10:53:39 PM</span> / <span>00:00:00:001</span>
               <span class="badge pass-bg log float-right">Pass</span>
             </p>
           </div>
@@ -171,15 +186,17 @@
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</h5>
-<span class='badge badge-success'>12.22.2024 4:03:24 PM</span>
-<span class='badge badge-danger'>12.22.2024 4:03:30 PM</span>
-<span class='badge badge-default'>00:00:05:793</span>
-&middot; <span class='uri-anchor badge badge-default'>#test-id=3</span>
+<h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</h5>
+<span class='badge badge-success'>12.30.2024 10:53:39 PM</span>
+<span class='badge badge-danger'>12.30.2024 10:53:39 PM</span>
+<span class='badge badge-default'>00:00:00:001</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=7</span>
 <span title='Skip to the next failed step' class='badge badge-danger pointer float-right ne ml-1'><i class="fa fa-fast-forward"></i></span>
 <span title='Collapse all nodes' class='badge badge-default pointer float-right ct ml-1'><i class="fa fa-compress"></i></span>
 <span title='Expand all nodes' class='badge badge-default pointer float-right et'><i class="fa fa-expand"></i></span>
 </div>
+<div class="m-t-15"><span class="badge badge-pill badge-default">regression</span>
+<span class="badge badge-pill badge-default">smoke</span></div>
 </div>
 </div><div class="detail-body mt-4">
 <table class="table table-sm">
@@ -187,9 +204,9 @@
   <tbody>
       <tr class="event-row">
         <td><span class="badge log pass-bg">Pass</span></td>
-        <td>4:03:30 PM</td>
+        <td>10:53:39 PM</td>
         <td>
-          <span class='badge white-text green'>verifyLoginWithInvalidData - Test Case Passed</span>
+          <span class='badge white-text green'>verifyLoginWithMoreData - Test Case Passed</span>
         </td>
       </tr>
   </tbody>
@@ -197,14 +214,14 @@
 </div>
           </div>
         </li>
-        <li class="test-item"  status="pass" test-id="4"
+        <li class="test-item"  status="pass" test-id="8"
           author=""
-          tag=""
+          tag="regression smoke"
           device="">
           <div class="test-detail">
-            <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithValidData</p>
+            <p class="name">Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</p>
             <p class="text-sm">
-              <span>4:03:30 PM</span> / <span>00:00:00:766</span>
+              <span>10:53:45 PM</span> / <span>00:00:00:000</span>
               <span class="badge pass-bg log float-right">Pass</span>
             </p>
           </div>
@@ -212,15 +229,17 @@
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithValidData</h5>
-<span class='badge badge-success'>12.22.2024 4:03:30 PM</span>
-<span class='badge badge-danger'>12.22.2024 4:03:31 PM</span>
-<span class='badge badge-default'>00:00:00:766</span>
-&middot; <span class='uri-anchor badge badge-default'>#test-id=4</span>
+<h5 class="test-status text-pass">Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</h5>
+<span class='badge badge-success'>12.30.2024 10:53:45 PM</span>
+<span class='badge badge-danger'>12.30.2024 10:53:45 PM</span>
+<span class='badge badge-default'>00:00:00:000</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=8</span>
 <span title='Skip to the next failed step' class='badge badge-danger pointer float-right ne ml-1'><i class="fa fa-fast-forward"></i></span>
 <span title='Collapse all nodes' class='badge badge-default pointer float-right ct ml-1'><i class="fa fa-compress"></i></span>
 <span title='Expand all nodes' class='badge badge-default pointer float-right et'><i class="fa fa-expand"></i></span>
 </div>
+<div class="m-t-15"><span class="badge badge-pill badge-default">regression</span>
+<span class="badge badge-pill badge-default">smoke</span></div>
 </div>
 </div><div class="detail-body mt-4">
 <table class="table table-sm">
@@ -228,9 +247,9 @@
   <tbody>
       <tr class="event-row">
         <td><span class="badge log pass-bg">Pass</span></td>
-        <td>4:03:31 PM</td>
+        <td>10:53:45 PM</td>
         <td>
-          <span class='badge white-text green'>verifyLoginWithValidData - Test Case Passed</span>
+          <span class='badge white-text green'>verifyLoginWithMoreData - Test Case Passed</span>
         </td>
       </tr>
   </tbody>
@@ -247,18 +266,168 @@
 </div>
 <div class="test-content-detail"><div class="detail-body"></div></div>
 </div></div>
-<div class="container-fluid p-4 view dashboard-view">
+<div class="test-wrapper row view category-view attributes-view">
+<div class="test-list">
+<div class="test-list-tools">
+<ul class="tools pull-left"><li><a href=""><span class="font-size-14">Category</span></a></li></ul>
+<ul class="tools text-right"><li><a href="#"><span class="badge badge-primary">3</span></a></li></ul>
+</div>
+<div class="test-list-wrapper scrollable">
+<ul class="test-list-item">
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>3</span>
+</span>
+<p class="name">smoke</p>
+<p class="duration text-sm">3 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>smoke</h4>
+<span status="pass" class='badge log pass-bg'>3 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:38 PM</td>
+<td>
+<a href="#" class="linked" test-id='6' id='6'>Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</a>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:39 PM</td>
+<td>
+<a href="#" class="linked" test-id='7' id='7'>Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</a>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:45 PM</td>
+<td>
+<a href="#" class="linked" test-id='8' id='8'>Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>4</span>
+</span>
+<p class="name">regression</p>
+<p class="duration text-sm">4 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>regression</h4>
+<span status="pass" class='badge log pass-bg'>4 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:28 PM</td>
+<td>
+<a href="#" class="linked" test-id='5' id='5'>Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</a>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:38 PM</td>
+<td>
+<a href="#" class="linked" test-id='6' id='6'>Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</a>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:39 PM</td>
+<td>
+<a href="#" class="linked" test-id='7' id='7'>Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</a>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:45 PM</td>
+<td>
+<a href="#" class="linked" test-id='8' id='8'>Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>1</span>
+</span>
+<p class="name">sanity</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>sanity</h4>
+<span status="pass" class='badge log pass-bg'>1 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>22:53:28 PM</td>
+<td>
+<a href="#" class="linked" test-id='5' id='5'>Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="test-content scrollable">
+<div class="test-content-detail">
+<div class="detail-body"></div>
+</div>
+</div>
+</div><div class="container-fluid p-4 view dashboard-view">
 <div class="row">
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Dec 22, 2024 04:03:18 PM</h3>
+<h3>Dec 30, 2024 10:53:20 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Dec 22, 2024 04:03:31 PM</h3>
+<h3>Dec 30, 2024 10:53:46 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
@@ -328,10 +497,43 @@
 </div></div>
 <script>
 var timeline = {
-"Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData":4.207,"Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData":0.845,"Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData":5.793,"Test Name: com.ui.tests.LoginTests - verifyLoginWithValidData":0.766
+"Test Name: com.ui.tests.LoginTests - verifyLoginWithInvalidData":0,"Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData":0.001,"Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData":0.001,"Test Name: com.ui.tests.LoginTests - verifyLoginWithMoreData":0
 };
 </script>
 <div class="row">
+<div class="col-lg-6 col-md-12 category-container">
+<div class="card">
+<div class="card-header"><p>Tags</p></div>
+<div class="card-body pb-0 pt-0"><table class="table table-sm table-bordered">
+<thead><tr class="bg-gray"><th>Name</th><th>Passed</th><th>Failed</th><th>Skipped</th><th>Others</th><th>Passed %</th></tr></thead><tbody>
+<tr>
+<td>smoke</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>regression</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>sanity</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
 <div class="col-lg-6 col-md-12 sysenv-container">
 <div class="card">
 <div class="card-header"><p>System/Environment</p></div>
@@ -339,12 +541,20 @@ var timeline = {
 <thead><tr class="bg-gray"><th>Name</th><th>Value</th></tr></thead>
 <tbody>
 <tr>
-<td>OS</td>
+<td>Tester</td>
+<td>Prathamesh Dhasade</td>
+</tr>
+<tr>
+<td>Environment</td>
+<td>QA</td>
+</tr>
+<tr>
+<td>Operating System</td>
 <td>Windows 10</td>
 </tr>
 <tr>
-<td>Tester</td>
-<td>Prathamesh Dhasade</td>
+<td>Browser</td>
+<td>edge</td>
 </tr>
 </tbody>
 </table></div>
